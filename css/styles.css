@@ -1,0 +1,62 @@
+/* CSS Documento */
+
+html{
+      background-color:antiquewhite;
+}
+
+button {
+    background-color:blueviolet;
+    margin-bottom: 20px;
+    
+}
+
+body {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+
+img {
+    border-image: url(styles.css);
+    margin-top: -50px;
+    float:right;
+}
+
+li {
+  list-style-type:decimal;
+}
+
+form{
+    border-style: groove;
+    border: 4px solid purple;
+    border-radius: 5px;
+    padding: 5px;
+    margin-right: 200px;
+}
+
+#txtmensagem {
+  width: 250px;
+  height: 10px;
+  padding: 5px;
+}
+
+#txtemail {
+  width: 275px;
+  height: 10px;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+#txtnome {
+  width: 280px;
+  height: 10px;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+#btnenviar {
+    margin-top: 20px;
+    margin-left: 284px;
+}
+
